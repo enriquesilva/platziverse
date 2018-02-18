@@ -1,0 +1,22 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "Simple IoT platform - DB Module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enriquesilva/platziverse.git"
+  },
+  "author": "Enrique Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enriquesilva/platziverse/issues"
+  },
+  "homepage": "https://github.com/enriquesilva/platziverse#readme",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
